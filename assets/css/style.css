@@ -88,5 +88,38 @@ section {
     position: absolute;
     bottom: 120px;
     right: 140px;
+}
+
+.hero-form h3{
+    margin: 0px;
+    font-size: 24px;
+
+}
+
+.hero-form p {
+    margin: 5px 0px 15px 0px;
+
+}
+
+.form-input {
+    border: 1px solid #024e76;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.hero-form label{
+    margin: 0 5px;
+}
+
+.hero-form button {
+    background-color: #024e76;
+    color: #fce138;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
 
 }
